@@ -13,9 +13,6 @@ public class MaquinaTragamonedas {
 
         //Consultar hasta cuándo jugar.
         jugarTragamonedas();
-        
-        //Generación de combinaciones.
-        tirarPalanca();
     }
     
     private static int premioAcumulado = 0;
